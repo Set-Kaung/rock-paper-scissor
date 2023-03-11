@@ -1,0 +1,17 @@
+button{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fc8f60;
+    color: #fafa27;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
