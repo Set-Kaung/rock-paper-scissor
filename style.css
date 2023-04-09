@@ -1,9 +1,14 @@
+body{
+    background-color: #F0EAD6;
+    color: #656995;
+}
 button{
     display: inline;
     padding: 10px;
+    font-size: 20px;
     border-radius: 8px;
-    background-color: #fc8f60;
-    color: #fafa27;
+    background-color: #b6c0fc;
+    color: #656995;
 }
 
 
@@ -23,6 +28,18 @@ button{
 .player-choice , .computer-choice{
     margin: 5px;
     padding: 5px;
-    font-size:28px;
+    font-size:20px;
     color: #5577a1;
+}
+
+.player-score, .computer-score{
+    margin: 3px;
+    padding: 3px;
+    font-size: 28;
+}
+
+.record{
+    margin: 5px 0px;
+    padding: 5px;
+    text-align: center;
 }
